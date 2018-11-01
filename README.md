@@ -1,6 +1,6 @@
-# vue-simple
+# Vue Animations Project
 
-> A simple Vue.js project
+> A simple project going through vue animations
 
 ## Build Setup
 
