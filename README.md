@@ -2,6 +2,8 @@
 
 > A simple project going through Vue animations
 
+> Incomplete
+
 ## Build Setup
 
 ``` bash
